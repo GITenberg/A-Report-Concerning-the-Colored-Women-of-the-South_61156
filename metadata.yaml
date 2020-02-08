@@ -1,0 +1,37 @@
+_repo: A-Report-Concerning-the-Colored-Women-of-the-South_61156
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hopkins, Charlotte Everett
+    aliases:
+    - Wise, Charlotte Everett
+    - Hopkins, C. E.
+    - Hopkins, Mrs. Archibald
+    birthdate: 1851
+    deathdate: 1935
+    gutenberg_agent_id: '51287'
+    url: http://www.gutenberg.org/2009/agents/51287
+  - agent_name: Hobson, Elizabeth Christophers Kimball
+    alias: Hobson, E. C. (Elizabeth Christophers)
+    birthdate: 1831
+    deathdate: 1912
+    gutenberg_agent_id: '51286'
+    url: http://www.gutenberg.org/2009/agents/51286
+description: ''
+gutenberg_issued: '2020-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61156'
+  lccn: '06010234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Trustees of the John F. Slater Fund. Occasional papers, no. 9
+subjects:
+- !lcsh 'African American women -- Southern States'
+- !lcsh 'Women -- Southern States'
+- !lcc 'E151'
+- GITenberg
+title: A Report Concerning the Colored Women of the South
+url: http://www.gutenberg.org/ebooks/61156
